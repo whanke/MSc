@@ -1,3 +1,7 @@
+"""
+https://github.com/RaRe-Technologies/gensim/blob/develop/docs/notebooks/Corpora_and_Vector_Spaces.ipynb
+"""
+
 import logging
 # loggin.basicConfig(format='%(asctime)s : %(levelname)s : %(message)s', level=logging.INFO)
 

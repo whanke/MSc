@@ -32,7 +32,7 @@ def one_emoji_in_tweet():
         i += 1 
 
 start_time = datetime.datetime.now()
-with open("tweet_by_ID_25_3_2018__07_04_27.txt", "r", encoding="utf-8") as file: #"tweet_by_ID_25_3_2018__07_04_27.txt"
+with open("D:\MSc\tweet_by_ID_25_3_2018__07_04_27.txt", "r", encoding="utf-8") as file: #"tweet_by_ID_25_3_2018__07_04_27.txt"
     print("Strip corpus...")
     data = (line.strip() for line in file)
     data_json = "[{0}]".format(','.join(data))

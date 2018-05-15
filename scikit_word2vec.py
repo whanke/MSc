@@ -1,9 +1,9 @@
 """
 scikit-learn word2vec
 
-kleines Beispiel mit einfachen Sätzen
+kleines Beispiel mit einfachen Sätzen 
 
-Sebastian Raschka, Machine Learning mit Python, Frechen 2017, S. 240
+Quelle: Sebastian Raschka, Machine Learning mit Python, Frechen 2017, S. 240
 """
 
 import numpy as np

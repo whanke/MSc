@@ -61,3 +61,5 @@ Barbieri Korpus/data_tweets_with_emoji_json.txt
 Barbieri Korpus/tweet_by_ID_25_3_2018__07_04_27.txt
 df_barbieri_last_word_category.pdf
 df_barbieri_vorkommen_emoji_alle.pdf
+ark-tweet-nlp-0.3.2/twitter_stream_POS_tagged_tweets.txt
+ark-tweet-nlp-0.3.2/twitter_stream_df_emoji_rows.txt
